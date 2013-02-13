@@ -1,0 +1,55 @@
+8
+
+dir
+178
+https://sourceforge.ethixsystems.com/svn/repos/l0001/trunk/src/php_lib/TCPDF/config
+https://sourceforge.ethixsystems.com/svn/repos/l0001
+
+
+
+2009-05-05T19:52:12.749758Z
+114
+decarr
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+83f37501-a54b-0410-9b39-ed05e57a2e87
+
+lang
+dir
+
+tcpdf_config.php
+file
+
+
+
+
+2009-05-07T20:46:33.000000Z
+72a151a348c4776f8e588bca55b06aa9
+2009-05-05T19:52:12.749758Z
+114
+decarr
+
+tcpdf_config_alt.php
+file
+
+
+
+
+2009-05-07T20:46:33.000000Z
+25eb0c4b0a9b7f3a33b7085fde40c6c1
+2009-05-05T19:52:12.749758Z
+114
+decarr
+

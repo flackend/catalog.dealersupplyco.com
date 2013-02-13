@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/repos/p0060/!svn/ver/65/trunk/src/ci_app_ds/config
+END
+doctypes.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/repos/p0060/!svn/ver/56/trunk/src/ci_app_ds/config/doctypes.php
+END
+mimes.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/repos/p0060/!svn/ver/56/trunk/src/ci_app_ds/config/mimes.php
+END
+constants.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/repos/p0060/!svn/ver/74/trunk/src/ci_app_ds/config/constants.php
+END
+form_validation.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/repos/p0060/!svn/ver/65/trunk/src/ci_app_ds/config/form_validation.php
+END
+user_agents.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/repos/p0060/!svn/ver/56/trunk/src/ci_app_ds/config/user_agents.php
+END
+routes.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/repos/p0060/!svn/ver/56/trunk/src/ci_app_ds/config/routes.php
+END
+hooks.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/repos/p0060/!svn/ver/56/trunk/src/ci_app_ds/config/hooks.php
+END
+database.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/repos/p0060/!svn/ver/57/trunk/src/ci_app_ds/config/database.php
+END
+config.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/repos/p0060/!svn/ver/57/trunk/src/ci_app_ds/config/config.php
+END
+smileys.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/repos/p0060/!svn/ver/56/trunk/src/ci_app_ds/config/smileys.php
+END
+autoload.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/repos/p0060/!svn/ver/56/trunk/src/ci_app_ds/config/autoload.php
+END

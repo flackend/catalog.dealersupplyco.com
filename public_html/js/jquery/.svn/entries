@@ -1,0 +1,52 @@
+8
+
+dir
+28
+https://sourceforge.ethixsystems.com/svn/repos/l0002/trunk/src/jquery
+https://sourceforge.ethixsystems.com/svn/repos/l0002
+
+
+
+2009-04-02T18:34:08.397430Z
+26
+njmarshall
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+fc23c0d6-bd4e-0410-aab8-a601f9f7287c
+
+blockUI.js
+file
+
+
+
+
+2009-05-12T15:35:37.000000Z
+b61d712ae41a104b0f2cb44f1f21b676
+2009-04-02T18:34:08.397430Z
+26
+njmarshall
+
+jquery.js
+file
+
+
+
+
+2009-05-12T15:35:37.000000Z
+bb381e2d19d8eace86b34d20759491a5
+2009-04-02T18:34:08.397430Z
+26
+njmarshall
+

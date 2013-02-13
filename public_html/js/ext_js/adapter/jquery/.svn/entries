@@ -1,0 +1,52 @@
+8
+
+dir
+28
+https://sourceforge.ethixsystems.com/svn/repos/l0002/trunk/src/ext_js/adapter/jquery
+https://sourceforge.ethixsystems.com/svn/repos/l0002
+
+
+
+2008-10-10T19:16:04.705477Z
+14
+decarr
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+fc23c0d6-bd4e-0410-aab8-a601f9f7287c
+
+ext-jquery-adapter.js
+file
+
+
+
+
+2009-05-12T15:34:23.000000Z
+be08857c7bccdfcefd030721e24c679c
+2008-10-10T19:16:04.705477Z
+14
+decarr
+
+jquery.js
+file
+
+
+
+
+2009-05-12T15:34:23.000000Z
+78068d39f1205a62fe7470537ecbabdd
+2008-06-03T07:32:18.577329Z
+1
+njmarshall
+

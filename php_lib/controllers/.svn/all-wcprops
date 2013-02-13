@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/repos/l0001/!svn/ver/166/trunk/src/php_lib/controllers
+END
+ESBaseLogin.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/repos/l0001/!svn/ver/166/trunk/src/php_lib/controllers/ESBaseLogin.php
+END
+ESBaseLogout.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/repos/l0001/!svn/ver/162/trunk/src/php_lib/controllers/ESBaseLogout.php
+END

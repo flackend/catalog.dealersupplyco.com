@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/repos/p0060/!svn/ver/73/trunk/src/ci_app_ds/views/admin
+END
+productsheader.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/repos/p0060/!svn/ver/56/trunk/src/ci_app_ds/views/admin/productsheader.php
+END
+footer.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/repos/p0060/!svn/ver/57/trunk/src/ci_app_ds/views/admin/footer.php
+END
+products.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/repos/p0060/!svn/ver/73/trunk/src/ci_app_ds/views/admin/products.php
+END
+menu.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/repos/p0060/!svn/ver/56/trunk/src/ci_app_ds/views/admin/menu.php
+END
+header.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/repos/p0060/!svn/ver/57/trunk/src/ci_app_ds/views/admin/header.php
+END

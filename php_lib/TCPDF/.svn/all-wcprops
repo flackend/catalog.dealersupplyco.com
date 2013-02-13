@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/repos/l0001/!svn/ver/117/trunk/src/php_lib/TCPDF
+END
+unicode_data.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repos/l0001/!svn/ver/114/trunk/src/php_lib/TCPDF/unicode_data.php
+END
+tcpdf.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/repos/l0001/!svn/ver/114/trunk/src/php_lib/TCPDF/tcpdf.php
+END
+barcodes.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/repos/l0001/!svn/ver/114/trunk/src/php_lib/TCPDF/barcodes.php
+END
+htmlcolors.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/repos/l0001/!svn/ver/114/trunk/src/php_lib/TCPDF/htmlcolors.php
+END
+2dbarcodes.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/repos/l0001/!svn/ver/114/trunk/src/php_lib/TCPDF/2dbarcodes.php
+END

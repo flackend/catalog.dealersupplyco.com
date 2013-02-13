@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/repos/p0060/!svn/ver/57/trunk/src/ci_app_ds/views/catalog
+END
+listing.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/repos/p0060/!svn/ver/56/trunk/src/ci_app_ds/views/catalog/listing.php
+END
+footer.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/repos/p0060/!svn/ver/57/trunk/src/ci_app_ds/views/catalog/footer.php
+END
+header.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/repos/p0060/!svn/ver/57/trunk/src/ci_app_ds/views/catalog/header.php
+END

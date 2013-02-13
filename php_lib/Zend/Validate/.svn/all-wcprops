@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/repos/l0001/!svn/ver/167/trunk/src/php_lib/Zend/Validate
+END
+Hostname.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/repos/l0001/!svn/ver/167/trunk/src/php_lib/Zend/Validate/Hostname.php
+END
+Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/repos/l0001/!svn/ver/167/trunk/src/php_lib/Zend/Validate/Interface.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/repos/l0001/!svn/ver/167/trunk/src/php_lib/Zend/Validate/Abstract.php
+END
+Ip.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/repos/l0001/!svn/ver/167/trunk/src/php_lib/Zend/Validate/Ip.php
+END

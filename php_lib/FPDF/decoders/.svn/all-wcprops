@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/repos/l0001/!svn/ver/80/trunk/src/php_lib/FPDF/decoders
+END
+ASCII85Decode.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/repos/l0001/!svn/ver/80/trunk/src/php_lib/FPDF/decoders/ASCII85Decode.php
+END
+LZWDecode.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/repos/l0001/!svn/ver/80/trunk/src/php_lib/FPDF/decoders/LZWDecode.php
+END

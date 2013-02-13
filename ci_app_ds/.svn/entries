@@ -1,0 +1,55 @@
+8
+
+dir
+73
+https://sourceforge.ethixsystems.com/svn/repos/p0060/trunk/src/ci_app_ds
+https://sourceforge.ethixsystems.com/svn/repos/p0060
+
+
+
+2009-06-22T18:34:52.627587Z
+73
+njmarshall
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+972ccfc3-5465-0410-8a33-80b3396bbd84
+
+helpers
+dir
+
+hooks
+dir
+
+language
+dir
+
+models
+dir
+
+config
+dir
+
+controllers
+dir
+
+errors
+dir
+
+libraries
+dir
+
+views
+dir
+

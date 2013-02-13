@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/repos/l0001/!svn/ver/114/trunk/src/php_lib/TCPDF/fonts/utils
+END
+freetype6.dll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/repos/l0001/!svn/ver/114/trunk/src/php_lib/TCPDF/fonts/utils/freetype6.dll
+END
+makeallttffonts.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/l0001/!svn/ver/114/trunk/src/php_lib/TCPDF/fonts/utils/makeallttffonts.php
+END
+ttf2ufm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/repos/l0001/!svn/ver/114/trunk/src/php_lib/TCPDF/fonts/utils/ttf2ufm
+END
+ttf2ufm.exe
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/repos/l0001/!svn/ver/114/trunk/src/php_lib/TCPDF/fonts/utils/ttf2ufm.exe
+END
+pfm2afm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/repos/l0001/!svn/ver/114/trunk/src/php_lib/TCPDF/fonts/utils/pfm2afm
+END
+pfm2afm.exe
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/repos/l0001/!svn/ver/114/trunk/src/php_lib/TCPDF/fonts/utils/pfm2afm.exe
+END
+makefont.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/repos/l0001/!svn/ver/114/trunk/src/php_lib/TCPDF/fonts/utils/makefont.php
+END
+README.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/repos/l0001/!svn/ver/114/trunk/src/php_lib/TCPDF/fonts/utils/README.TXT
+END
+zlib1.dll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/repos/l0001/!svn/ver/114/trunk/src/php_lib/TCPDF/fonts/utils/zlib1.dll
+END

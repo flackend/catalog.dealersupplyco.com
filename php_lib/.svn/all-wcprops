@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/repos/l0001/!svn/ver/178/trunk/src/php_lib
+END
+numberFormatFunctions.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/repos/l0001/!svn/ver/169/trunk/src/php_lib/numberFormatFunctions.php
+END
+dataVerification.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/repos/l0001/!svn/ver/139/trunk/src/php_lib/dataVerification.php
+END
+pagingAndSorting.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/repos/l0001/!svn/ver/171/trunk/src/php_lib/pagingAndSorting.php
+END
+lookupTableDropdown.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/repos/l0001/!svn/ver/171/trunk/src/php_lib/lookupTableDropdown.php
+END
+rbotEncryptionAlgorithmClass.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/repos/l0001/!svn/ver/171/trunk/src/php_lib/rbotEncryptionAlgorithmClass.php
+END
+ethixCalendarClass.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repos/l0001/!svn/ver/171/trunk/src/php_lib/ethixCalendarClass.php
+END
+reversibleEncryptionClass.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/repos/l0001/!svn/ver/171/trunk/src/php_lib/reversibleEncryptionClass.php
+END
+dateTimeFunctions.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/repos/l0001/!svn/ver/137/trunk/src/php_lib/dateTimeFunctions.php
+END
+arrayFunctions.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/repos/l0001/!svn/ver/137/trunk/src/php_lib/arrayFunctions.php
+END
+stringFormatFunctions.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/repos/l0001/!svn/ver/169/trunk/src/php_lib/stringFormatFunctions.php
+END

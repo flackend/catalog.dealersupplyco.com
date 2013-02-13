@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/repos/l0001/!svn/ver/164/trunk/src/php_lib/views/login/email_templates
+END
+html-forgot_username.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/l0001/!svn/ver/146/trunk/src/php_lib/views/login/email_templates/html-forgot_username.php
+END
+text-forgot_username.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/l0001/!svn/ver/164/trunk/src/php_lib/views/login/email_templates/text-forgot_username.php
+END
+html-forgot_password.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/l0001/!svn/ver/146/trunk/src/php_lib/views/login/email_templates/html-forgot_password.php
+END
+text-forgot_password.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/l0001/!svn/ver/164/trunk/src/php_lib/views/login/email_templates/text-forgot_password.php
+END
+html-password_reset.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/l0001/!svn/ver/146/trunk/src/php_lib/views/login/email_templates/html-password_reset.php
+END
+text-password_reset.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/l0001/!svn/ver/164/trunk/src/php_lib/views/login/email_templates/text-password_reset.php
+END
+html-new_account.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/l0001/!svn/ver/146/trunk/src/php_lib/views/login/email_templates/html-new_account.php
+END
+text-new_account.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/l0001/!svn/ver/164/trunk/src/php_lib/views/login/email_templates/text-new_account.php
+END

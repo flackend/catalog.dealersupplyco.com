@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/repos/l0003/!svn/ver/5/trunk/1.7.1/language/english
+END
+number_lang.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/repos/l0003/!svn/ver/5/trunk/1.7.1/language/english/number_lang.php
+END
+calendar_lang.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/repos/l0003/!svn/ver/5/trunk/1.7.1/language/english/calendar_lang.php
+END
+ftp_lang.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/repos/l0003/!svn/ver/5/trunk/1.7.1/language/english/ftp_lang.php
+END
+date_lang.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repos/l0003/!svn/ver/5/trunk/1.7.1/language/english/date_lang.php
+END
+form_validation_lang.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/repos/l0003/!svn/ver/5/trunk/1.7.1/language/english/form_validation_lang.php
+END
+unit_test_lang.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/repos/l0003/!svn/ver/5/trunk/1.7.1/language/english/unit_test_lang.php
+END
+profiler_lang.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/repos/l0003/!svn/ver/5/trunk/1.7.1/language/english/profiler_lang.php
+END
+imglib_lang.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/repos/l0003/!svn/ver/5/trunk/1.7.1/language/english/imglib_lang.php
+END
+upload_lang.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/repos/l0003/!svn/ver/5/trunk/1.7.1/language/english/upload_lang.php
+END
+db_lang.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/repos/l0003/!svn/ver/5/trunk/1.7.1/language/english/db_lang.php
+END
+email_lang.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/repos/l0003/!svn/ver/5/trunk/1.7.1/language/english/email_lang.php
+END

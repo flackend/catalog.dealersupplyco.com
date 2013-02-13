@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/repos/l0001/!svn/ver/167/trunk/src/php_lib/Zend
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/repos/l0001/!svn/ver/167/trunk/src/php_lib/Zend/Exception.php
+END
+Uri.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/repos/l0001/!svn/ver/167/trunk/src/php_lib/Zend/Uri.php
+END
+Gdata.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/repos/l0001/!svn/ver/167/trunk/src/php_lib/Zend/Gdata.php
+END
+Version.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/repos/l0001/!svn/ver/167/trunk/src/php_lib/Zend/Version.php
+END
+Loader.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/repos/l0001/!svn/ver/167/trunk/src/php_lib/Zend/Loader.php
+END
+Registry.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/repos/l0001/!svn/ver/167/trunk/src/php_lib/Zend/Registry.php
+END

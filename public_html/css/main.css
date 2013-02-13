@@ -1,0 +1,169 @@
+@CHARSET "ISO-8859-1";
+
+body {font-family: Arial, Helvetica, sans-serif; font-size:15px; background-color:#71B0F0}
+
+a{color:#0000FF; text-decoration:none;}
+a:active{color:#0000FF}
+a:link{color:#0000FF}
+a:hover{color:#0000FF; text-decoration: underline;}
+
+.SuccessMessage {
+	color:#00CC00;
+	font-weight: bold;
+}
+
+.ErrorMessage {
+	color:#CC0000;
+}
+
+.ErrorMessageQT {
+	background-image: url(/js/ext_js/resources/images/default/form/exclamation.gif);
+	background-repeat: no-repeat;
+  	background-position: center left;
+	display:inline;
+	color:#CC0000;
+}
+
+body > table {background-color:#FFFFFF; width: 800px; padding:6px; border:solid 1px #444444; border-bottom-width:0px;}
+body > table + table {border-top-width:0px; border-bottom-width:1px;}
+body > table span#HeaderName {font-size:12px; color:#555555;}
+
+div#CatalogSearch {float:left; width:175px;}
+div#CatalogSearch table {width:100%; padding:6px; text-align:left; border:solid 1px #CCCCCC}
+div#CatalogSearch table th {font-weight:normal; font-size:11px; padding-top:6px;}
+div#CatalogSearch table td {}
+
+table.CatalogListing {font-size:12px;}
+table.CatalogListing table {
+	font-size: 14px;
+	background-color: #F4F8FF;
+	border-color: #999999;
+	border-style: solid;
+	border-width: 1px;
+	text-align: left;
+}
+table.CatalogListing table th {
+	background-color: #E1EAFF;
+}
+table.CatalogListing table tr {
+	cursor: pointer;
+}
+table.CatalogListing table tr:hover {
+	background-color: #FFFBF4;
+}
+table.CatalogListing table tr.PagingAndSortingRowColor {
+	background-color: #EAF2FF;
+}
+table.CatalogListing table tr.PagingAndSortingRowColor:hover {
+	background-color: #FFF8EA;
+	cursor: pointer;	
+}
+table.CatalogListing div.PagingAndSortingNoMatchesDiv {
+	
+}
+
+table.CatalogListingAdmin {font-size:12px;}
+table.CatalogListingAdmin table {
+	font-size: 14px;
+	background-color: #F4F8FF;
+	border-color: #999999;
+	border-style: solid;
+	border-width: 1px;
+	text-align: left;
+}
+table.CatalogListingAdmin table th {
+	background-color: #E1EAFF;
+}
+table.CatalogListingAdmin table tr.PagingAndSortingRowColor {
+	background-color: #EAF2FF;
+}
+
+h3 {font-size:15px; margin-left:20px;}
+ul {font-size:12px; margin-left:20px;}
+
+table#AddNewSection {
+	background-color: #FBFBFB;
+	padding: 4px;
+	border: 1px outset #333388;
+	cursor: pointer;
+	margin-left: 10px;
+	font-size: 15px;
+}
+table#AddNewSection:hover {
+	/*background-color: #F2F8FF;*/
+	background-color: #FFFFF5;
+}
+table#AddNewSection:active {
+	border: 1px inset #333366;
+	background-color: #FFFFF5;
+}
+
+div.AdminNote {
+	font-size: 12px;
+	color: #666666;
+	padding-top: 6px;
+}
+
+table.SectionTable {
+	margin-left: 10px;
+	background-color: #E1EAFF;
+	border: 1px solid #444444;
+	padding: 2px;
+}
+table.SectionTable th {
+	padding-top: 0px;
+	border-bottom: 1px solid #444444;
+}
+table.SectionTable th + th {
+	padding-left: 10px;
+}
+table.SectionTable td {
+	padding-top: 6px;
+}
+span.SectionCategoryTotal {
+	font-size: 12px;
+	color:#666666;	
+}
+
+table.CategoryTable {
+	background-color: #F4F8FF;
+	padding: 4px;
+	font-size: 14px;
+}
+
+table.AddNewCategory {
+	background-color: #FBFBFB;
+	border: 1px outset #333388;
+	cursor: pointer;
+	font-size: 12px;
+}
+table.AddNewCategory td {
+	padding-bottom: 4px;
+	padding-left: 4px;
+	padding-right: 4px;
+}
+table.AddNewCategory:hover {
+	background-color: #FFFFF5;
+}
+table.AddNewCategory:active {
+	border: 1px inset #333366;
+	background-color: #FFFFF5;
+}
+
+#EditProductTable {
+	font-size:13px;
+
+}
+#AddNewProductTable {
+	font-size:13px;
+}
+.Required {font-weight: bold}
+
+h4 {display:inline;}
+
+div#PASNoResultsDiv {
+	margin-left: 15px;
+	padding: 5px;
+	background-color: #FFCC00;
+	display: inline;
+}

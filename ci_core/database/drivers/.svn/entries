@@ -1,0 +1,49 @@
+8
+
+dir
+6
+https://sourceforge.ethixsystems.com/svn/repos/l0003/trunk/1.7.1/database/drivers
+https://sourceforge.ethixsystems.com/svn/repos/l0003
+
+
+
+2009-05-19T15:33:05.039584Z
+1
+njmarshall
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+354abc30-18e5-4d2b-b4c8-204c4a5fe87f
+
+mssql
+dir
+
+sqlite
+dir
+
+oci8
+dir
+
+postgre
+dir
+
+mysql
+dir
+
+odbc
+dir
+
+mysqli
+dir
+

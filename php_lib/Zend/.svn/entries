@@ -1,0 +1,112 @@
+8
+
+dir
+178
+https://sourceforge.ethixsystems.com/svn/repos/l0001/trunk/src/php_lib/Zend
+https://sourceforge.ethixsystems.com/svn/repos/l0001
+
+
+
+2009-06-04T06:11:30.524873Z
+167
+njmarshall
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+83f37501-a54b-0410-9b39-ed05e57a2e87
+
+Http
+dir
+
+Uri
+dir
+
+Gdata
+dir
+
+Exception.php
+file
+
+
+
+
+2009-06-22T15:40:29.000000Z
+7444d4451b0836b2412d695f1c0b4941
+2009-06-04T06:11:30.524873Z
+167
+njmarshall
+
+Uri.php
+file
+
+
+
+
+2009-06-22T15:40:29.000000Z
+985796fe4383b8ce5beb4e9e1ff64d68
+2009-06-04T06:11:30.524873Z
+167
+njmarshall
+
+Gdata.php
+file
+
+
+
+
+2009-06-22T15:40:29.000000Z
+bccb5de2fa5d98a8cadaca95e4f4ad7b
+2009-06-04T06:11:30.524873Z
+167
+njmarshall
+
+Validate
+dir
+
+Version.php
+file
+
+
+
+
+2009-06-22T15:40:29.000000Z
+704bbc13f8907f9165ac70273008e179
+2009-06-04T06:11:30.524873Z
+167
+njmarshall
+
+Loader.php
+file
+
+
+
+
+2009-06-22T15:40:29.000000Z
+51795a0ae1350199fece2b26372cfa1c
+2009-06-04T06:11:30.524873Z
+167
+njmarshall
+
+Registry.php
+file
+
+
+
+
+2009-06-22T15:40:29.000000Z
+fa78a3cf5462cc4ae297da6d9204de7e
+2009-06-04T06:11:30.524873Z
+167
+njmarshall
+
